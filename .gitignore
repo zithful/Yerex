@@ -17,3 +17,9 @@ roblox.yml
 # OS
 .DS_Store
 Thumbs.db
+
+# Xcode
+ios/**/*.xcodeproj/
+ios/**/.build/
+ios/**/xcuserdata/
+ios/**/DerivedData/
